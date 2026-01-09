@@ -1,7 +1,7 @@
 {
   "domain": "forecast_load_consumption",
   "name": "Forecast Load Consumption",
-  "version": "1.0",
+  "version": "1.0.0",
   "requirements": ["pandas", "statsmodels", "pmdarima"],
   "config_flow": true,
   "dependencies": ["solarman"],
