@@ -1,0 +1,6 @@
+{
+  "name": "Forecast Load Consumption",
+  "domain": "forecast_load_consumption",
+  "content_in_root": false,
+  "homeassistant": "2023.1.0"
+}
