@@ -4,7 +4,6 @@
   "version": "1.0",
   "requirements": ["pandas", "statsmodels", "pmdarima"],
   "config_flow": true,
-  "documentation": "https://www.home-assistant.io/integrations/forecast_load_consumption",
   "dependencies": ["solarman"],
   "codeowners": ["@yourgithubusername"],
   "iot_class": "cloud_polling"
